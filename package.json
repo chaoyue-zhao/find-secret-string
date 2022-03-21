@@ -1,0 +1,16 @@
+{
+	"name": "jobber-takehome-chaoyuez",
+	"version": "1.0.0",
+	"description": "",
+	"main": "findSecretString.js",
+	"dependencies": {},
+	"devDependencies": {
+		"jest": "^27.5.1"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "",
+	"license": "ISC",
+	"type": "module"
+}
